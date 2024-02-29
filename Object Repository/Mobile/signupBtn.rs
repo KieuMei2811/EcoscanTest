@@ -3,7 +3,7 @@
    <description></description>
    <name>signupBtn</name>
    <tag></tag>
-   <elementGuidId>d2f1b196-2b98-4255-b7d4-82e9c04319aa</elementGuidId>
+   <elementGuidId>d2bd1543-102e-4ef3-bd1c-7bf504306d7f</elementGuidId>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
